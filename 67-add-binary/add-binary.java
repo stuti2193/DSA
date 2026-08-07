@@ -19,8 +19,8 @@ class Solution {
                 j--;
             }
 
-            result.append(sum % 2); // Current binary digit
-            carry = sum / 2;        // Carry for next iteration
+            result.append(sum % 2); 
+            carry = sum / 2;        
         }
 
         return result.reverse().toString();
