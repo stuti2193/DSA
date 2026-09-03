@@ -18,6 +18,7 @@ JAVA
 | [0387-first-unique-character-in-a-string](https://github.com/stuti2193/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/stuti2193/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ JAVA
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/stuti2193/DSA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +47,8 @@ JAVA
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
