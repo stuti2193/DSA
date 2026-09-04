@@ -19,6 +19,7 @@ JAVA
 | [0389-find-the-difference](https://github.com/stuti2193/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,9 @@ JAVA
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
