@@ -20,6 +20,7 @@ JAVA
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/stuti2193/DSA/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,8 +54,10 @@ JAVA
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/stuti2193/DSA/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/stuti2193/DSA/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
