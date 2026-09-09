@@ -52,6 +52,7 @@ JAVA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -68,4 +69,20 @@ JAVA
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/stuti2193/DSA/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
