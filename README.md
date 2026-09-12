@@ -25,6 +25,7 @@ JAVA
 | [0415-add-strings](https://github.com/stuti2193/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/stuti2193/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/stuti2193/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/stuti2193/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/stuti2193/DSA/tree/master/0520-detect-capital) |
 ## Hash Table
 |  |
