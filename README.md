@@ -10,6 +10,7 @@ JAVA
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/stuti2193/DSA/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ JAVA
 | [0459-repeated-substring-pattern](https://github.com/stuti2193/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/stuti2193/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/stuti2193/DSA/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/stuti2193/DSA/tree/master/0541-reverse-string-ii) |
 ## Hash Table
 |  |
 | ------- |
