@@ -41,6 +41,7 @@ JAVA
 | ------- |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti2193/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3978-unique-middle-element](https://github.com/stuti2193/DSA/tree/master/3978-unique-middle-element) |
 ## Queue
 |  |
 | ------- |
@@ -81,6 +82,7 @@ JAVA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
+| [3978-unique-middle-element](https://github.com/stuti2193/DSA/tree/master/3978-unique-middle-element) |
 ## Breadth-First Search
 |  |
 | ------- |
