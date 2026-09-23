@@ -14,6 +14,7 @@ JAVA
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
@@ -58,6 +59,7 @@ JAVA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
