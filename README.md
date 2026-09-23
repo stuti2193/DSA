@@ -61,6 +61,7 @@ JAVA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ JAVA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 | [3978-unique-middle-element](https://github.com/stuti2193/DSA/tree/master/3978-unique-middle-element) |
 ## Breadth-First Search
 |  |
@@ -91,6 +93,7 @@ JAVA
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -107,4 +110,12 @@ JAVA
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/stuti2193/DSA/tree/master/0459-repeated-substring-pattern) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
