@@ -61,6 +61,7 @@ JAVA
 | ------- |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/stuti2193/DSA/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
@@ -84,6 +85,7 @@ JAVA
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 | [3978-unique-middle-element](https://github.com/stuti2193/DSA/tree/master/3978-unique-middle-element) |
@@ -120,4 +122,12 @@ JAVA
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
