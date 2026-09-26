@@ -33,6 +33,7 @@ JAVA
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti2193/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/stuti2193/DSA/tree/master/0389-find-the-difference) |
@@ -83,6 +84,7 @@ JAVA
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
