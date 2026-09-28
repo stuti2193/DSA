@@ -6,6 +6,7 @@ JAVA
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -80,10 +81,12 @@ JAVA
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/stuti2193/DSA/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
