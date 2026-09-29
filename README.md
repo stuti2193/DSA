@@ -83,6 +83,7 @@ JAVA
 | ------- |
 | [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/stuti2193/DSA/tree/master/0409-longest-palindrome) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/stuti2193/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ JAVA
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 | [3978-unique-middle-element](https://github.com/stuti2193/DSA/tree/master/3978-unique-middle-element) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/stuti2193/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Breadth-First Search
 |  |
 | ------- |
