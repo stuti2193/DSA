@@ -15,6 +15,7 @@ JAVA
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -34,6 +35,7 @@ JAVA
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti2193/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -137,4 +139,8 @@ JAVA
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
