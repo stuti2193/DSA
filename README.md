@@ -35,6 +35,7 @@ JAVA
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/stuti2193/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
@@ -90,6 +91,7 @@ JAVA
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/stuti2193/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
