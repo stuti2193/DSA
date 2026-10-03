@@ -73,6 +73,7 @@ JAVA
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/stuti2193/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/stuti2193/DSA/tree/master/0009-palindrome-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
@@ -146,4 +147,12 @@ JAVA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/stuti2193/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/stuti2193/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
