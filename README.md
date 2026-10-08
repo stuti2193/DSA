@@ -6,6 +6,7 @@ JAVA
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
@@ -16,6 +17,7 @@ JAVA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -64,6 +66,7 @@ JAVA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -161,4 +164,8 @@ JAVA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti2193/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
