@@ -18,6 +18,7 @@ JAVA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/stuti2193/DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -168,4 +169,12 @@ JAVA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/stuti2193/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/stuti2193/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
