@@ -8,6 +8,7 @@ JAVA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/stuti2193/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/stuti2193/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
@@ -64,6 +65,7 @@ JAVA
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/stuti2193/DSA/tree/master/0015-3sum) |
 | [0389-find-the-difference](https://github.com/stuti2193/DSA/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@ JAVA
 | [0001-two-sum](https://github.com/stuti2193/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti2193/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/stuti2193/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/stuti2193/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
