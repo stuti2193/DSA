@@ -20,6 +20,7 @@ JAVA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/stuti2193/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/stuti2193/DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
@@ -42,6 +43,7 @@ JAVA
 | ------- |
 | [0001-two-sum](https://github.com/stuti2193/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/stuti2193/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti2193/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -82,6 +84,7 @@ JAVA
 | ------- |
 | [0002-add-two-numbers](https://github.com/stuti2193/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/stuti2193/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/stuti2193/DSA/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/stuti2193/DSA/tree/master/0415-add-strings) |
