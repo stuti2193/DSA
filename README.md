@@ -110,6 +110,7 @@ JAVA
 | [0014-longest-common-prefix](https://github.com/stuti2193/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/stuti2193/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti2193/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/stuti2193/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
@@ -155,6 +156,7 @@ JAVA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti2193/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/stuti2193/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
