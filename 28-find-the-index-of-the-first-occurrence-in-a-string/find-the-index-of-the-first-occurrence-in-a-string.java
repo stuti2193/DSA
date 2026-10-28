@@ -20,7 +20,6 @@ class Solution {
             }
         }
 
-        // Needle not found
         return -1;
     }
 }
