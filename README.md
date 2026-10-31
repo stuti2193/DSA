@@ -24,6 +24,7 @@ JAVA
 | [0013-roman-to-integer](https://github.com/stuti2193/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/stuti2193/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/stuti2193/DSA/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/stuti2193/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
