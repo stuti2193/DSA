@@ -78,6 +78,7 @@ JAVA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -116,6 +117,7 @@ JAVA
 | [0033-search-in-rotated-sorted-array](https://github.com/stuti2193/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/stuti2193/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/stuti2193/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
@@ -185,6 +187,7 @@ JAVA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti2193/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
