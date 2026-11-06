@@ -26,6 +26,7 @@ JAVA
 | [0014-longest-common-prefix](https://github.com/stuti2193/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/stuti2193/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/stuti2193/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/stuti2193/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti2193/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -66,6 +67,7 @@ JAVA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/stuti2193/DSA/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/stuti2193/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
@@ -91,12 +93,14 @@ JAVA
 | [0002-add-two-numbers](https://github.com/stuti2193/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/stuti2193/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/stuti2193/DSA/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/stuti2193/DSA/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti2193/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/stuti2193/DSA/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/stuti2193/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/stuti2193/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/stuti2193/DSA/tree/master/0415-add-strings) |
 ## Greedy
