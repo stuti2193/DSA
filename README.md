@@ -123,6 +123,7 @@ JAVA
 | [0035-search-insert-position](https://github.com/stuti2193/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/stuti2193/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/stuti2193/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ JAVA
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/stuti2193/DSA/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -219,6 +221,7 @@ JAVA
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/stuti2193/DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
