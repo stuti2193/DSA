@@ -49,6 +49,7 @@ JAVA
 | [0001-two-sum](https://github.com/stuti2193/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stuti2193/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/stuti2193/DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti2193/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -120,6 +121,7 @@ JAVA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti2193/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/stuti2193/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/stuti2193/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/stuti2193/DSA/tree/master/0088-merge-sorted-array) |
@@ -158,6 +160,7 @@ JAVA
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/stuti2193/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -208,4 +211,16 @@ JAVA
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/stuti2193/DSA/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
