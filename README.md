@@ -11,6 +11,7 @@ JAVA
 | [0015-3sum](https://github.com/stuti2193/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/stuti2193/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti2193/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/stuti2193/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/stuti2193/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
@@ -119,6 +120,7 @@ JAVA
 | [0014-longest-common-prefix](https://github.com/stuti2193/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/stuti2193/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti2193/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/stuti2193/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/stuti2193/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/stuti2193/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
