@@ -228,4 +228,20 @@ JAVA
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
