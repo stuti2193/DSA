@@ -12,6 +12,7 @@ JAVA
 | [0019-remove-nth-node-from-end-of-list](https://github.com/stuti2193/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti2193/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/stuti2193/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/stuti2193/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/stuti2193/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/stuti2193/DSA/tree/master/0344-reverse-string) |
@@ -82,6 +83,7 @@ JAVA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/stuti2193/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/stuti2193/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/stuti2193/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +127,7 @@ JAVA
 | [0035-search-insert-position](https://github.com/stuti2193/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/stuti2193/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/stuti2193/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/stuti2193/DSA/tree/master/0088-merge-sorted-array) |
@@ -209,6 +212,7 @@ JAVA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/stuti2193/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/stuti2193/DSA/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -246,4 +250,8 @@ JAVA
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/stuti2193/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
