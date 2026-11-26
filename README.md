@@ -142,6 +142,7 @@ JAVA
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/stuti2193/DSA/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -240,10 +241,12 @@ JAVA
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/stuti2193/DSA/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/stuti2193/DSA/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -252,6 +255,7 @@ JAVA
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/stuti2193/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/stuti2193/DSA/tree/master/0100-same-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
