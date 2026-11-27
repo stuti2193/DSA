@@ -53,6 +53,7 @@ JAVA
 | [0013-roman-to-integer](https://github.com/stuti2193/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/stuti2193/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/stuti2193/DSA/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/stuti2193/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/stuti2193/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti2193/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/stuti2193/DSA/tree/master/0389-find-the-difference) |
@@ -133,6 +134,7 @@ JAVA
 | [0053-maximum-subarray](https://github.com/stuti2193/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/stuti2193/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti2193/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/stuti2193/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/stuti2193/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/stuti2193/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/stuti2193/DSA/tree/master/0322-coin-change) |
@@ -260,4 +262,8 @@ JAVA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/stuti2193/DSA/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/stuti2193/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
